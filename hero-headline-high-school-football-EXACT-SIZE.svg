@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="843"
+     height="193"
+     fill="none"
+     viewBox="0 0 843 193">
+
+  <!-- Replacement headline: same canvas size and white color as the original Hudl asset -->
+  <text x="421.5" y="84"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="Arial Narrow, Helvetica Neue, Arial, sans-serif"
+        font-size="61"
+        font-weight="800"
+        letter-spacing="-2.1"
+        textLength="785"
+        lengthAdjust="spacingAndGlyphs">HIGH SCHOOL FOOTBALL</text>
+
+  <text x="421.5" y="187"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="Arial Narrow, Helvetica Neue, Arial, sans-serif"
+        font-size="47"
+        font-weight="300"
+        letter-spacing="0.2"
+        textLength="705"
+        lengthAdjust="spacingAndGlyphs">LIVE. EVERY GAME.</text>
+
+</svg>
