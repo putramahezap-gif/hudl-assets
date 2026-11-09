@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="843"
+     height="193"
+     viewBox="0 0 843 193"
+     fill="none">
+
+  <!-- 843x193 canvas, matching the original headline proportions. -->
+  <text x="421.5" y="85"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="Arial Narrow, Liberation Sans Narrow, Arial, sans-serif"
+        font-size="84"
+        font-weight="800"
+        letter-spacing="-2"
+        textLength="837"
+        lengthAdjust="spacingAndGlyphs">HIGH SCHOOL SOCCER</text>
+
+  <text x="421.5" y="190"
+        text-anchor="middle"
+        fill="#fff"
+        font-family="Arial Narrow, Liberation Sans Narrow, Arial, sans-serif"
+        font-size="70"
+        font-weight="300"
+        letter-spacing="0"
+        textLength="703"
+        lengthAdjust="spacingAndGlyphs">LIVE. EVERY GAME.</text>
+
+</svg>
